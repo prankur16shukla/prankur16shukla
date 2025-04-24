@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prankur Shukla, Senior Systems Engineer (Data Analytics, Reporting and Business Intelligence), Infosys Limited.
+- 👋 Hi, I’m Prankur Shukla, Senior Analytics Consultant (Data Analytics, Reporting and Business Intelligence), Quantzig AI Solutions Limited.
 - 👀 I’m interested in exploring the power of Data all around us.
 - 🌱 I’m currently learning and working on Feature Engineering and Selection, Machine Learning, Deep Learning, Natural Language Processing, 
       ML Model Deployments, SQL, NoSQL, ETL(Extraction, Transaction and Loading) in SQL Database, Business Intelligence and Data Visualization Tools.
